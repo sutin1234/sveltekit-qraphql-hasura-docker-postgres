@@ -12,5 +12,9 @@ build profile with sveltekit graphql hasura postgres
 
 #### serve sveletkit app
 `$ pnpm install & pnpm dev`
+`$ http://localhost:3000/`
+#### API ENPOINT
+`$ http://localhost:3000/graphql`
+` support METHOD: POST, PUT, GET, DELETE `
 
 #### ready to deploy

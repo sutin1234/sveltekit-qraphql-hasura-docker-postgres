@@ -1,4 +1,4 @@
-# sveltekit-qraphql-hasura-docker-postgresr
+# sveltekit-qraphql-hasura-docker-postgres
 build profile with sveltekit graphql hasura postgres
 
 #### clone source code

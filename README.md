@@ -2,7 +2,7 @@
 # Sveltekit-GraphQL-Hasura-Docker-Postgresr
 สร้าง Profile กับ sveltekit ด้วย GraphQL + Hasura + Postgres
 
-#### clone source code
+#### ทำการ clone repo
 `$ gh repo clone sutin1234/sveltekit-qraphql-hasura-docker-postgresr`
 
 #### build & run docker container

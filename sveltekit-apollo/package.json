@@ -52,6 +52,8 @@
 		"@tailwindcss/forms": "^0.3.4",
 		"cookie": "^0.4.1",
 		"env-cmd": "^10.1.0",
-		"react": "^17.0.2"
+		"react": "^17.0.2",
+		"apollo-server-lambda": "^2.24.1",
+		"graphql": "^15.5.0"
 	}
 }

@@ -1,9 +1,7 @@
 import { client } from '$lib/graphql/graphql-client';
 import { gql } from 'graphql-request';
 
-
-// eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
-export const get = async () => {
+export const get = async (): Promise<unknown> => {
     try {
         const query = gql`
 			query {

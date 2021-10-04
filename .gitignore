@@ -2,3 +2,5 @@ sveltekit-app/node_modules
 sveltekit-app/.svelte-kit
 sveltekit-app/package-lock.json
 .pnpm-debug.log
+node_modules/
+pnpm-lock.json

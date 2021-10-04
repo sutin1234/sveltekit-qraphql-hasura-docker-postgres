@@ -1,0 +1,6 @@
+{
+	"devDependencies": {
+		"graphql-tag": "^2.12.5",
+		"subscriptions-transport-ws": "^0.9.19"
+	}
+}

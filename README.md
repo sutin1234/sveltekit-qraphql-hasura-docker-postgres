@@ -1,5 +1,5 @@
 
-# Sveltekit-GraphQL-Hasura-Docker-Postgresr
+# Sveltekit-GraphQL-Hasura-Docker-Postgres
 สร้าง Profile กับ sveltekit ด้วย GraphQL + Hasura + Postgres
 
 #### ทำการ clone repo

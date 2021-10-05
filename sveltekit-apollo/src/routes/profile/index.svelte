@@ -6,7 +6,6 @@
 		const res: Response = await fetch('/api/graphql');
 		if (res.ok) {
 			const { data } = await res.json();
-			console.log(data);
 			return {
 				props: { ...data }
 			};

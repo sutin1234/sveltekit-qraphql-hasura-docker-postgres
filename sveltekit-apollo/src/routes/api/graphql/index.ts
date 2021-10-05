@@ -1,3 +1,4 @@
+
 import { client } from "$lib/utilities/apolloClient";
 import { gql } from '@apollo/client'
 
@@ -29,7 +30,6 @@ export const get = async (): Promise<unknown> => {
         };
     }
 }
-
 export const post = async ({ body }): Promise<unknown> => {
     try {
         const mutation = gql`
